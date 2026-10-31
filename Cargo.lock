@@ -12,5 +12,4 @@ dependencies = [
 [[package]]
 name = "pa-rs"
 version = "0.1.7"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "0d7d8965d5959241c15f0d0ac4d1d8a685eeecbfc29457aa24ee30cadf69222d"
+source = "git+https://github.com/shashi-kant-42/pa-rs#113b800d158b397eee2126ce5ad5b015f11c4da0"

@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-pa-rs = "0.1.7"
+pa-rs = { git = "https://github.com/shashi-kant-42/pa-rs", commit = "113b800" }
